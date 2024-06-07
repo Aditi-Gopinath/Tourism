@@ -30,7 +30,7 @@ const Home = () => {
             alt=""
           />
           <div className="absolute w-full bottom-[5rem]">
-            <div className="flex flex-col justify-center items-center sm:mb-[5rem] mb-[0rem]">
+            <div className="flex flex-col justify-center items-center sm:mb-[-3rem] mb-[0rem]">
               <span className="text-[3rem]">Welcome,</span>
               <span className="text-[2rem]"> to</span>
               <h1 className="text-[5rem] sm:ml-[25px] text-center font-[Agbalumo]">
